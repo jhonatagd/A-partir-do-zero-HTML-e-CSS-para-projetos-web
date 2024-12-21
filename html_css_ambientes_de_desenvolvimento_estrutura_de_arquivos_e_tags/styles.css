@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: lightblue;
+    background-color: rgb(35, 126, 230);
     color: black;
     }
 
@@ -36,4 +36,17 @@ body{
 .apresentacao__links {
     display: flex;
     justify-content: space-between;
+}
+
+.apresentacao__links__link {
+    background-color: #22d4fd;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #0000;
+    font-family: 'Montserrat', sans-serif;
 }
